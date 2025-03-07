@@ -15,10 +15,10 @@ The project utilises the following:
 * Azure Custom Vision AI
 The following are required from the Azure API to be added to an env file in the backend configuration: 
 
-PREDICTION_KEY
-TRAINING_KEY
-TRAINING_ENDPOINT
-PREDICTION_RESOURCE_ID
+PREDICTION_KEY, 
+TRAINING_KEY,
+TRAINING_ENDPOINT,
+PREDICTION_RESOURCE_ID,
 PREDICTION_ENDPOINT
 
 ## Contact
